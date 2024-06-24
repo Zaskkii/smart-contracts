@@ -23,9 +23,9 @@ project-smart-contracts/
 
 ## Smart Contracts Included
 
-- Token-ERC20.sol**: Implementation of a standard ERC-20 token contract to represent digital assets on the blockchain.
-- auction.sol**: Contract for a decentralised auction where participants can bid and win digital assets.
-- voting.sol**: Contract for voting systems where voters can securely and transparently cast votes.
+- **Token-ERC20.sol**: Implementation of a standard ERC-20 token contract to represent digital assets on the blockchain.
+- **auction.sol**: Contract for a decentralised auction where participants can bid and win digital assets.
+- **voting.sol**: Contract for voting systems where voters can securely and transparently cast votes.
 
 ## Use
 
